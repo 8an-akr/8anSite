@@ -1,0 +1,57 @@
+.main-footer {
+  position: fixed;
+  bottom: 0;
+  background: black;
+  height: 11%;
+  width: 100%;
+}
+
+.footer-nav {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.nav-img {
+  display: block;
+  height: 10%;
+  width: 10%;
+  margin: auto;
+}
+
+.nav-img:hover {
+  cursor: pointer;
+  background-color: rgba(60, 60, 255, 0.479);
+}
+
+.nav-svg {
+  color: white;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.nav-logo {
+  border-radius: 50%;
+  padding: 6px;
+  height: 70%;
+  width: auto;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  font-size: 220% !important;
+}
+
+/* .nav-img-place {
+  position: relative;
+  bottom: 140px;
+}
+
+.nav-img-page {
+  z-index: -1;
+  position: relative;
+  top: 100px;
+  height: 280px;
+  width: 25em;
+  border-radius: 50%;
+  background-color: #1f1c14;
+} */
